@@ -1,0 +1,16 @@
+body {
+    background-color: #303d53f4;
+    color: aliceblue;
+}
+header {
+    background-color: #030e20f4;
+    color: aliceblue;
+    padding: 20px;
+    text-align: center;
+}
+footer {
+    background-color: #030e20f4;
+    color: aliceblue;
+    padding: 20px;
+    text-align: center;
+}
